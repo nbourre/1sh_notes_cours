@@ -1,4 +1,4 @@
-# L'utilité et l'utilisation de OneNote pour les étudiants de niveau collégial <!-- omit in toc -->
+# OneNote <!-- omit in toc -->
 
 # Table des matières <!-- omit in toc -->
 - [Introduction](#introduction)
