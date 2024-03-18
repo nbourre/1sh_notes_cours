@@ -89,10 +89,9 @@ Voici un exemple pour un cours intitulé "Veille technologique".
        - Page 5.2 : Communication et collaboration
        - Page 5.3 : Présentations et rapports
 
-TODO : Completer les notes de cours
-
 # Conclusion
 
-OneNote est un outil précieux pour les personnes qui utilisent des ordinateurs, car il facilite l'organisation des notes, la collaboration et l'accès aux informations.
+OneNote est un logiciel intéressant pour les personnes qui utilisent l'ordinateur, car il facilite l'organisation des notes, la collaboration et l'accès aux informations.
 
-Il permet de facilement retrouver de l'information qui a été colligée sur plusieurs périodes de temps. Dans le cadre de notre cours, il sera utilise pour le travail de recherche que vous aurez à effectuer.
+Il permet de facilement retrouver de l'information qui a été colligée sur plusieurs périodes de temps. Dans le cadre de notre cours, il sera utilisé pour le travail de recherche que vous aurez à effectuer.
+
