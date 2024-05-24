@@ -2,6 +2,7 @@
 
 # Table des matières <!-- omit in toc -->
 - [Introduction](#introduction)
+- [Alternatives à OneNote](#alternatives-à-onenote)
 - [Avantages de OneNote](#avantages-de-onenote)
 - [Concepts](#concepts)
   - [Bloc-notes](#bloc-notes)
@@ -17,6 +18,13 @@
 OneNote est un outil de prise de notes et d'organisation numérique développé par Microsoft. Il est particulièrement utile, car il facilite la gestion des informations et la collaboration entre pairs. Dans ce document, nous explorerons les avantages de OneNote et comment l'utiliser pour organiser un bloc-notes dédié à un cours intitulé "Veille technologique".
 
 ![Alt text](assets/onenote_mainscreen.png)
+
+# Alternatives à OneNote
+Le logiciel Obsidian est une alternative à OneNote. Il est open-source et a une version gratuite. Il permet de créer des notes interconnectées et de naviguer facilement entre elles. Il est particulièrement adapté pour la prise de notes, la recherche et l'organisation des informations.
+
+Il permet d'écrire les notes en Markdown, ce qui facilite la création de documents structurés et lisibles. Il offre également des fonctionnalités de recherche avancées, de visualisation des liens entre les notes et de personnalisation de l'interface.
+
+Vous pouvez télécharger Obsidian à l'adresse suivante : [Obsidian](https://github.com/obsidianmd/obsidian-releases)
 
 # Avantages de OneNote
 
