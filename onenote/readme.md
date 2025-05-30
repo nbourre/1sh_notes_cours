@@ -15,7 +15,9 @@
 
 # Introduction
 
-OneNote est un outil de prise de notes et d'organisation numérique développé par Microsoft. Il est particulièrement utile, car il facilite la gestion des informations et la collaboration entre pairs. Dans ce document, nous explorerons les avantages de OneNote et comment l'utiliser pour organiser un bloc-notes dédié à un cours intitulé "Veille technologique".
+OneNote est un outil de prise de notes et d'organisation numérique développé par Microsoft. Il est particulièrement utile, car il facilite la gestion des informations et la collaboration entre pairs. Il est utilisé souvent dans les entreprises qui sont déjà équipées de la suite Microsoft 365. Il est également disponible sur plusieurs plateformes, y compris Windows, macOS, iOS et Android, ce qui permet une synchronisation facile des notes entre différents appareils.
+
+Dans ce document, nous explorerons les avantages de OneNote et comment l'utiliser pour organiser un bloc-notes dédié à un cours intitulé "Veille technologique".
 
 ![Alt text](assets/onenote_mainscreen.png)
 
@@ -35,6 +37,8 @@ Vous pouvez télécharger Obsidian à l'adresse suivante : [Obsidian](https://gi
 5. Synchronisation sur plusieurs appareils
 6. Fonctionnalités d'annotation
 
+---
+
 # Concepts
 Dans OneNote, il y a différentes façons d'organiser les informations. Ce qu'il faut comprendre ce sont les concepts de bloc-notes, de section et de page.
 
@@ -43,12 +47,14 @@ Un bloc-notes est un ensemble d'informations organisées. Il peut contenir plusi
 
 ![Alt text](assets/onenote_notebooks.png)
 
-Dans l'exemple ci-contre, on y voit 3 bloc-notes. Le premier bloc-notes est intitulé "Ordinateur portable de Nicolas". Le deuxième bloc-notes est intitulé "Veille technologique". Le troisième bloc-notes est intitulé "Programmation embarquée".
+Dans l'exemple ci-contre, on y voit plusieurs bloc-notes. Le premier bloc-notes est intitulé "Ordinateur portable de Nicolas" et le dernier "TREM - Comité TI".
 
 ## Sections
 Une section est un ensemble de pages. Une section peut être utilisée pour organiser les notes d'un cours, par exemple.
 
-Dans un bloc-notes, ils sont représentés par des onglets. Dans l'exemple ci-contre, on y voit 2 sections soit "H23" et "H22".
+On pourra facilement faire l'analogie des onglets dans un classeur. Dans OneNote, les sections sont représentées par des onglets dans la barre supérieure de la zone de travail. 
+
+Dans l'exemple ci-contre, on y voit plusieurs sections dont "Technicalités", "Lua", ...
 
 ![Alt text](assets/onenote_sections.png)
 
@@ -57,7 +63,9 @@ Une page est un ensemble d'informations. Une page peut être utilisée pour orga
 
 ![Alt text](assets/onenote_pages.png)
 
-Dans une section, les pages se présentent sous forme de vignettes. Dans l'exemple ci-contre, on y voit 3 pages soit "Suivi #1 - mardi", "Suivi #2 - jeudi" et "Suivi #3 - mardi am".
+Dans une section, les pages se présentent sous forme de vignettes. Dans l'exemple ci-contre, on y voit plusieurs pages.
+
+---
 
 # Organisation des notes
 Il y a plusieurs façons d'organiser les notes dans OneNote. La manière d'organiser l'information dépend de la façon dont vous préférez travailler. Voici quelques exemples d'organisation des notes.
