@@ -1,0 +1,39 @@
+site_name: Veille technologique (420-1SX - Cégep de Shawinigan)
+site_url: https://nbourre.github.io/1sh_notes_cours/
+theme:
+  name: material
+  language: fr
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.top
+
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.snippets:
+      base_path: .
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+nav:
+  - Accueil: index.md
+  - OneNote: onenote/index.md
+  - Prendre des notes avec GH : github_notes/index.md
+  - Articles:
+    - Les dangers du vibe coding :  articles/dangers-vibe-coding.md
+    - Danger des emplois liés à l'IA : articles/AI_jobs_danger_traduction.md
