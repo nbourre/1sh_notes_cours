@@ -37,27 +37,27 @@ En développant mon IA destinée à [accélérer le développement logiciel](htt
 
 * **Plutôt que d’accepter des fonctions ou des composants entiers**, décomposez-les en morceaux plus petits et compréhensibles. J’ai développé un processus en trois étapes :
 
-  1. Générer de petits blocs de fonctionnalités ciblées
-  2. Revoir et comprendre chaque bloc en profondeur
-  3. Intégrer seulement après validation et tests
+    * Générer de petits blocs de fonctionnalités ciblées
+    * Revoir et comprendre chaque bloc en profondeur
+    * Intégrer seulement après validation et tests
 
 * [**L’IA doit avoir une compréhension complète de votre projet**](https://gigamind.dev/), incluant :
 
-  * La raison d’être du projet
-  * La logique d’affaires (le « pourquoi », pas seulement le « comment »)
-  * L’interaction entre les différentes parties du projet
-  * L’utilisation et l’intégration des dépendances tierces importantes
-  * L’explication du schéma de données et des modèles
+    * La raison d’être du projet
+    * La logique d’affaires (le « pourquoi », pas seulement le « comment »)
+    * L’interaction entre les différentes parties du projet
+    * L’utilisation et l’intégration des dépendances tierces importantes
+    * L’explication du schéma de données et des modèles
 
 * **Élaborez une stratégie de tests qui vous oblige à comprendre le code** :
 
-  * Rédiger les tests avant d’accepter du code généré par l’IA
-  * Tester explicitement les cas limites
-  * Mettre en place des tests d’intégration pour vérifier le comportement global du système (ou le faire manuellement à défaut)
+    * Rédiger les tests avant d’accepter du code généré par l’IA
+    * Tester explicitement les cas limites
+    * Mettre en place des tests d’intégration pour vérifier le comportement global du système (ou le faire manuellement à défaut)
 
 * **Même en tant que développeur solo**, je maintiens un processus strict de révision de code pour tout ce qui est généré par IA :
 
-  * Revoir chaque portion de code comme si elle avait été écrite par un développeur junior
-  * Vérifier les implications en matière de sécurité
-  * S’assurer d’un bon traitement des erreurs
+    * Revoir chaque portion de code comme si elle avait été écrite par un développeur junior
+    * Vérifier les implications en matière de sécurité
+    * S’assurer d’un bon traitement des erreurs
 
