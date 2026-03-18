@@ -1,34 +1,70 @@
 site_name: Veille technologique (420-1SX - Cégep de Shawinigan)
+site_author: Nicolas Bourré
 site_url: https://nbourre.github.io/1sh_notes_cours/
+
 theme:
   name: material
   language: fr
+  logo: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/docs/assets/images/favicon.png
+  favicon: https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/docs/assets/images/favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: light-blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light-blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
+    - navigation.instant
+    - navigation.expand
+    - navigation.top
     - search.suggest
     - search.highlight
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.top
-
+    - content.code.copy
+  icon:
+    annotation: material/arrow-right-circle
 
 markdown_extensions:
   - admonition
-  - toc:
-      permalink: true
-      toc_depth: 3
+  - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
-      linenums: true
+      use_pygments: true
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.snippets:
-      base_path: .
+  - pymdownx.snippets
   - attr_list
   - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
 
 extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nbourre
+      name: GitHub Repository
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@NicolasBourre
+  generator: false
 
 nav:
   - Accueil: index.md
