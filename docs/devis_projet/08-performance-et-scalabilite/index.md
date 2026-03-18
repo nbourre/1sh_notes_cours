@@ -55,6 +55,20 @@ Certaines situations justifient une attention particulière :
 - [ ] Les optimisations nécessaires sont connues
 - [ ] Le niveau de scalabilité visé est proportionné
 
+## Questions de compréhension
+
+1. Pourquoi faut-il chiffrer les attentes de performance dès le devis?
+2. Donne un exemple de besoin qui nécessite une approche temps réel.
+3. Quelle erreur fréquente mène à des surprises de performance en production?
+
+<!-- 
+Réponses :
+1. Parce que les objectifs de temps de réponse et de charge orientent l'architecture et les optimisations à prévoir.
+2. Un tableau de bord qui doit se mettre à jour toutes les quelques secondes pour plusieurs utilisateurs simultanés.
+3. Décrire la performance de façon vague (« ce doit être rapide ») au lieu de définir des seuils mesurables.
+-->
+
 ## À retenir
 
 La performance fait partie des exigences du produit. Si elle n’est pas définie, elle devient une source d’ambiguïté et de surprises dans le devis.
+

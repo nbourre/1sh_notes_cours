@@ -42,6 +42,20 @@ Prévoir l’après-projet permet de clarifier ce qui est inclus dans le prix in
 - [ ] Les besoins de formation sont identifiés
 - [ ] Le mode de support futur est clarifié
 
+## Questions de compréhension
+
+1. Pourquoi la maintenance doit-elle être prévue dès le devis?
+2. Nomme deux éléments qui peuvent faire partie d'un plan après-projet.
+3. Quel problème est évité en définissant clairement la maintenance incluse?
+
+<!-- 
+Réponses :
+1. Parce que le logiciel continue d'évoluer après la livraison et des corrections seront inévitables.
+2. Une période de support et des mises à jour techniques/correctives.
+3. On évite les zones floues de responsabilité et les tensions quand un incident survient après la mise en production.
+-->
+
 ## À retenir
 
 La livraison d’un logiciel n’est pas la fin de son cycle de vie. Un bon devis prévoit dès le départ comment le projet continuera à être soutenu après sa mise en production.
+

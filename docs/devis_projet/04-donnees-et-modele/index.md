@@ -50,6 +50,20 @@ Les devis sous-estiment souvent les cas où les données changent dans le temps�
 - [ ] Les besoins d’historique sont notés
 - [ ] Les volumes approximatifs sont estimés
 
+## Questions de compréhension
+
+1. Pourquoi le modèle de données influence-t-il autant le devis?
+2. Quelle différence y a-t-il entre une suppression logique et une suppression physique?
+3. Donne un exemple de complexité cachée liée aux données.
+
+<!-- 
+Réponses :
+1. Parce qu'il détermine la complexité des CRUD, les validations, la performance et les efforts de maintenance ou migration.
+2. La suppression logique conserve l'information en l'archivant, tandis que la suppression physique retire la donnée de façon définitive.
+3. Le besoin d'historiser les changements dans le temps, comme les versions de prix ou les modifications d'état d'un dossier.
+-->
+
 ## À retenir
 
 Le modèle de données constitue le squelette du projet. Plus il est clair tôt dans le processus, plus le devis est stable et plus les risques de refonte diminuent.
+

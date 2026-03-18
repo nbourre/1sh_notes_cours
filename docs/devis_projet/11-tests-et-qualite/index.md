@@ -46,6 +46,20 @@ Une équipe livre une fonctionnalité de remise de travaux pour une plateforme s
 - [ ] Les plateformes à couvrir sont connues
 - [ ] Le temps de correction est considéré
 
+## Questions de compréhension
+
+1. Pourquoi les tests doivent-ils apparaître explicitement dans le devis?
+2. Quelle différence entre tests unitaires et tests d'intégration?
+3. Quel est un effet fréquent d'une QA sous-estimée?
+
+<!-- 
+Réponses :
+1. Parce qu'ils demandent du temps et réduisent le risque de régressions, de bogues critiques et de corrections coûteuses en fin de projet.
+2. Les tests unitaires valident un composant isolé, alors que les tests d'intégration valident l'interaction entre plusieurs composants.
+3. Des bogues détectés après livraison, entraînant des urgences et une perte de confiance.
+-->
+
 ## À retenir
 
 Les tests ne sont pas un luxe. Dans un devis, ils représentent une assurance qualité qui protège à la fois le client et l’équipe de développement.
+

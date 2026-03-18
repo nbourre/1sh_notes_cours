@@ -50,6 +50,20 @@ Une intégration externe introduit des éléments hors de votre contrôle : pan
 - [ ] Les environnements de test sont confirmés
 - [ ] Le risque d’intégration est pris en compte
 
+## Questions de compréhension
+
+1. Pourquoi une intégration externe ajoute-t-elle du risque dans un projet?
+2. Nomme deux tâches à prévoir lors d'une intégration API.
+3. Quelle information doit être clarifiée tôt avec le client pour éviter les blocages?
+
+<!-- 
+Réponses :
+1. Parce qu'elle dépend d'un service hors de contrôle de l'équipe (pannes, quotas, changements d'API, délais).
+2. La gestion des erreurs et la validation du flux complet dans un environnement de test.
+3. Qui fournit les accès, les clés API et les comptes nécessaires à l'intégration.
+-->
+
 ## À retenir
 
 Chaque intégration externe mérite son propre bloc d’analyse. Dans un devis, la connecter n’est jamais « juste un petit plus ».
+

@@ -48,6 +48,20 @@ Un groupe d'étudiants veut construire une application de suivi de présences po
 - [ ] Les risques techniques sont connus
 - [ ] Les besoins de maintenance sont considérés
 
+## Questions de compréhension
+
+1. Pourquoi l'architecture doit-elle être proportionnelle au projet?
+2. Quelle est une question utile avant de choisir une pile technologique?
+3. Donne un exemple d'arbitrage architectural pertinent dans un devis.
+
+<!-- 
+Réponses :
+1. Une architecture trop ambitieuse augmente la complexité, les délais et les risques sans nécessairement apporter de valeur immédiate.
+2. Il faut vérifier si l'équipe maîtrise réellement les technologies envisagées.
+3. Choisir un monolithe simple plutôt qu'une architecture microservices quand les besoins et les ressources sont limités.
+-->
+
 ## À retenir
 
 L’architecture technique doit soutenir les objectifs du projet, pas les compliquer. Dans un devis, la bonne question n’est pas « quelle architecture est la plus impressionnante? », mais « quelle architecture est la plus adaptée? »
+

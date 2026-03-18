@@ -45,6 +45,20 @@ Un freelance livre une application web à un client. Le code fonctionne sur son 
 - [ ] Les sauvegardes sont considérées
 - [ ] Le mode de déploiement est précisé
 
+## Questions de compréhension
+
+1. Pourquoi le déploiement doit-il être inclus dans le devis initial?
+2. Nomme deux éléments d'infrastructure souvent oubliés.
+3. Quel risque apparaît si l'infrastructure n'est pas clarifiée?
+
+<!-- 
+Réponses :
+1. Parce qu'il demande du travail réel (configuration, sécurité, domaine, SSL, sauvegardes) indispensable à la livraison.
+2. Les sauvegardes automatiques et la gestion des variables d'environnement en production.
+3. Le projet peut sembler terminé en développement local, mais devenir bloqué ou dépasser le budget au moment de la mise en ligne.
+-->
+
 ## À retenir
 
 Le déploiement fait partie du produit. Si cette charge n’apparaît pas dans le devis, elle réapparaîtra plus tard sous forme de dépassement.
+

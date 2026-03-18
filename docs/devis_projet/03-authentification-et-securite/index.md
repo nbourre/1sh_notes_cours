@@ -57,6 +57,20 @@ Plusieurs devis oublient des fonctionnalités pourtant essentielles :
 - [ ] Les obligations de conformité sont connues
 - [ ] Les cas de récupération et de journalisation sont prévus
 
+## Questions de compréhension
+
+1. Pourquoi la sécurité doit-elle être estimée comme un bloc à part entière?
+2. Nomme deux cas souvent oubliés dans les devis liés à l'authentification.
+3. Quelle question poser pour anticiper les contraintes légales?
+
+<!-- 
+Réponses :
+1. Parce qu'elle inclut plus que la connexion, notamment les permissions, la journalisation, la gestion des sessions et la protection des données.
+2. La réinitialisation de mot de passe et le verrouillage de compte après plusieurs tentatives.
+3. Il faut demander si le système traite des données personnelles ou sensibles et quelles obligations de conformité s'appliquent.
+-->
+
 ## À retenir
 
 La sécurité coûte toujours moins cher quand elle est prévue au début. Dans un devis, elle doit être traitée comme un bloc fonctionnel à part entière.
+

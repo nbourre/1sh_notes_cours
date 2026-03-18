@@ -49,6 +49,20 @@ Un enseignant veut un outil pour que ses étudiants remettent leurs travaux en l
 - [ ] Les critères de succès sont définis
 - [ ] Les limites du mandat sont explicites
 
+## Questions de compréhension
+
+1. Pourquoi faut-il définir le type de projet (prototype, MVP ou production) dès le départ?
+2. Quelle est la différence entre l'objectif du projet et les fonctionnalités du projet?
+3. Donne un risque concret d'un devis sans vision claire.
+
+<!-- 
+Réponses :
+1. Parce que le type de projet détermine le niveau de qualité attendu, l'effort technique, les tests requis et donc l'estimation globale du devis.
+2. L'objectif explique le problème à résoudre et la valeur attendue, tandis que les fonctionnalités décrivent les actions concrètes que le système doit offrir.
+3. On peut estimer un prototype comme un produit final, ce qui provoque un écart important de temps et de budget.
+-->
+
+
 ## À retenir
 
 La vision sert de point d’ancrage à tout le devis. Si elle est floue, toutes les estimations qui suivent deviennent fragiles.

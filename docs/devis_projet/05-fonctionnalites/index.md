@@ -62,6 +62,20 @@ Si une fonctionnalité est mal définie, le devis devient fragile. On peut croir
 - [ ] Les dépendances entre fonctionnalités sont connues
 - [ ] Les options de phase 2 sont séparées
 
+## Questions de compréhension
+
+1. Pourquoi une fonctionnalité doit-elle être formulée en action concrète?
+2. Donne un exemple d'élément qui transforme une fonctionnalité simple en fonctionnalité complexe.
+3. Quel est l'avantage de séparer les fonctionnalités de phase 1 et de phase 2?
+
+<!-- 
+Réponses :
+1. Parce qu'une action concrète est observable, testable et plus facile à estimer qu'un terme vague comme « gestion » ou « dashboard ».
+2. L'ajout de règles métier, d'autorisations par rôle, d'exports ou d'historique augmente nettement la charge.
+3. Cela permet de protéger le MVP, de prioriser la valeur et d'éviter d'alourdir inutilement le devis initial.
+-->
+
 ## À retenir
 
 Un bon devis repose moins sur une longue liste de mots à la mode que sur un découpage clair des comportements attendus du système.
+

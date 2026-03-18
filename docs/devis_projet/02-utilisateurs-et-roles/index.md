@@ -63,6 +63,20 @@ Chacun de ces profils a ses propres écrans, ses règles de validation et ses ca
 - [ ] Le volume d’utilisateurs est estimé
 - [ ] Les cas sensibles sont notés
 
+## Questions de compréhension
+
+1. Pourquoi le nombre de rôles influence-t-il fortement l'estimation?
+2. Quelles informations minimales faut-il documenter pour un rôle utilisateur?
+3. Donne un exemple de conséquence si les rôles sont mal définis dans le devis.
+
+<!-- 
+Réponses :
+1. Chaque rôle ajoute des permissions, des écrans, des validations et des cas de test supplémentaires.
+2. Ce que le rôle peut voir, modifier, supprimer et les restrictions qui s'appliquent.
+3. Une seule fonctionnalité en apparence simple peut cacher plusieurs parcours différents, ce qui crée un dépassement de charge.
+-->
+
 ## À retenir
 
 Quand on comprend bien les utilisateurs et leurs rôles, on peut mieux évaluer la vraie portée du projet. C’est souvent là que la complexité réelle apparaît.
+

@@ -66,6 +66,20 @@ Sans le buffer et la gestion de projet, le devis affiché serait de 60 heures, s
 - [ ] Les hypothèses sont écrites
 - [ ] Les exclusions sont visibles
 
+## Questions de compréhension
+
+1. Pourquoi faut-il inclure la gestion de projet dans l'estimation?
+2. Quel est le rôle d'un buffer de 20 à 30%?
+3. Que permet une estimation découpée par blocs plutôt qu'un montant global direct?
+
+<!-- 
+Réponses :
+1. Parce que la coordination, les rencontres et les validations consomment du temps réel qui n'apparaît pas dans les fonctionnalités.
+2. Il couvre l'incertitude normale d'un projet logiciel (imprévus techniques, clarifications tardives, ajustements).
+3. Elle rend le devis transparent, discutable et plus facile à ajuster selon les priorités.
+-->
+
 ## À retenir
 
 Le budget n’est pas seulement un total. C’est la traduction structurée d’un ensemble d’hypothèses, de décisions et de risques assumés dans le devis.
+

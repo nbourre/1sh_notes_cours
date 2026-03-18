@@ -44,6 +44,20 @@ Un client dit : « je veux juste quelque chose de simple et propre ». Quelqu
 - [ ] Les attentes SEO sont connues
 - [ ] Les exigences d’accessibilité sont notées
 
+## Questions de compréhension
+
+1. Pourquoi l'UI/UX ne se limite-t-elle pas au visuel?
+2. Quel impact a le choix entre gabarit existant et design sur mesure?
+3. Donne un exemple d'élément éditorial qui doit être estimé.
+
+<!-- 
+Réponses :
+1. Parce qu'elle inclut aussi les parcours, la clarté des actions, l'accessibilité, les états d'erreur et la structure de contenu.
+2. Le design sur mesure augmente fortement l'effort de conception, d'intégration et de validation.
+3. La rédaction ou la révision des textes de pages, des messages système et du contenu SEO.
+-->
+
 ## À retenir
 
 L’interface n’est pas une couche décorative. Dans un devis, elle doit être estimée comme un ensemble de décisions fonctionnelles, visuelles et éditoriales.
+
