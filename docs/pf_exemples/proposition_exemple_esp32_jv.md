@@ -1,9 +1,9 @@
 # Proposition formelle – Expérimentation technologique  
-**Titre du projet** : Développement d’un moteur de jeux vidéo pour système embarqué  
+**Titre du projet** : Développement d’un moteur de jeux vidéo pour système embarqué  
 
-**Date de remise** : 15 avril 2024  
-**Étudiant(e)** : Tommy Houle  
-**Dépôt Git** : https://github.com/nbourre/1sh_notes_cours
+**Date de remise** : 15 avril 2024  
+**Étudiant(e)** : Tommy Houle  
+**Dépôt Git** : https://github.com/nbourre/1sh_notes_cours
 
 ---
 
@@ -11,13 +11,13 @@
 
 Depuis que j’ai découvert la programmation, j’ai toujours été fasciné par la manière dont un programme peut donner vie à des systèmes embarqués. Ce qui me passionne particulièrement, c’est la convergence entre l’optimisation, les mathématiques appliquées et la programmation créative. J’ai expérimenté l’Arduino dans plusieurs projets, mais jusqu’ici, je n’ai jamais eu l’occasion d’explorer un microcontrôleur plus puissant comme l’ESP32.  
 
-Récemment, mon enseignant m’a fait découvrir la librairie LVGL, un framework permettant de créer des interfaces graphiques performantes sur microcontrôleurs. Cette découverte m’a donné envie de relever un défi : développer un moteur de jeux vidéo simple pour un système embarqué basé sur l’ESP32. Ce projet me permettra d’apprendre à manipuler des concepts avancés comme l’affichage graphique optimisé, la gestion des entrées et la programmation bas niveau adaptée aux ressources limitées d’un microcontrôleur.  
+Récemment, mon enseignant m’a fait découvrir la librairie LVGL, un framework permettant de créer des interfaces graphiques performantes sur microcontrôleurs. Cette découverte m’a donné envie de relever un défi : développer un moteur de jeux vidéo simple pour un système embarqué basé sur l’ESP32. Ce projet me permettra d’apprendre à manipuler des concepts avancés comme l’affichage graphique optimisé, la gestion des entrées et la programmation bas niveau adaptée aux ressources limitées d’un microcontrôleur.  
 
 ---
 
 # Prérecherche  
 
-Avant d’arrêter mon choix sur ce projet, j’ai exploré plusieurs idées :  
+Avant d’arrêter mon choix sur ce projet, j’ai exploré plusieurs idées :  
 
 | Sujet exploré | Résumé | Pourquoi rejeté |
 |--------------|--------|----------------|
@@ -35,7 +35,7 @@ Le projet du moteur de jeux vidéo sur ESP32 me semble être un excellent équil
 
 L’objectif est de développer une première version d’un moteur permettant de créer des jeux simples sur un microcontrôleur ESP32 en exploitant la librairie LVGL.  
 
-Les objectifs spécifiques sont les suivants :  
+Les objectifs spécifiques sont les suivants :  
 - Apprendre à configurer et programmer un ESP32 pour gérer un affichage graphique.  
 - Explorer les fonctionnalités de LVGL et comprendre son fonctionnement interne.  
 - Développer une base permettant d’afficher des sprites, gérer les entrées utilisateur et rafraîchir l’écran efficacement.  
@@ -48,30 +48,30 @@ Les objectifs spécifiques sont les suivants :
 
 Le projet sera mené sur dix jours.  
 
-**Jour 1-2 : Prise en main de l’ESP32 et de LVGL**  
+**Jour 1-2 : Prise en main de l’ESP32 et de LVGL**  
 - Installation des outils nécessaires pour programmer l’ESP32 (ESP-IDF ou Arduino IDE avec extensions).  
 - Exploration de la documentation de LVGL et tests d’affichage basiques.  
 - Affichage des premiers éléments graphiques statiques.  
 
-**Jour 3-4 : Développement du système de rendu et de gestion des entrées**  
+**Jour 3-4 : Développement du système de rendu et de gestion des entrées**  
 - Création d’une boucle de rendu permettant d’afficher et de mettre à jour des éléments dynamiques.  
 - Gestion des entrées utilisateur via des boutons ou un écran tactile.  
 - Optimisation des temps de rafraîchissement pour améliorer la fluidité.  
 
-**Jour 5-6 : Ajout de mécaniques de jeu simples**  
+**Jour 5-6 : Ajout de mécaniques de jeu simples**  
 - Mise en place d’un gestionnaire d’objets interactifs.  
 - Animation d’éléments et détection de collisions basique.  
 - Implémentation d’un premier prototype de mini-jeu.  
 
-**Jour 7-8 : Tests et ajustements**  
+**Jour 7-8 : Tests et ajustements**  
 - Amélioration de la réactivité et de l’ergonomie de l’interface.  
 - Détection et correction des problèmes de performance.  
 
-**Jour 9 : Documentation et préparation de la démonstration**  
+**Jour 9 : Documentation et préparation de la démonstration**  
 - Rédaction d’un rapport détaillant les choix techniques et les résultats obtenus.  
 - Préparation d’une démonstration du moteur en fonctionnement.  
 
-**Jour 10 : Présentation du projet**  
+**Jour 10 : Présentation du projet**  
 - Présentation des concepts abordés et des défis rencontrés.  
 - Démonstration du mini-jeu tournant sur ESP32.
 
@@ -79,17 +79,17 @@ Le projet sera mené sur dix jours.
 
 # Outils et technologies utilisées  
 
-- Microcontrôleur : ESP32  
-- Bibliothèque graphique : LVGL  
-- Outils de développement : ESP-IDF, Arduino IDE  
-- Langage de programmation : C/C++  
-- Matériel supplémentaire : écran TFT ou OLED compatible avec l’ESP32  
+- Microcontrôleur : ESP32  
+- Bibliothèque graphique : LVGL  
+- Outils de développement : ESP-IDF, Arduino IDE  
+- Langage de programmation : C/C++  
+- Matériel supplémentaire : écran TFT ou OLED compatible avec l’ESP32  
 
 ---
 
 # Résultats attendus  
 
-Le projet sera considéré comme réussi si :  
+Le projet sera considéré comme réussi si :  
 - Un moteur de base fonctionnel permet d’afficher des éléments graphiques et de gérer les interactions utilisateur.  
 - La fluidité de l’affichage est optimisée pour être exploitable sur un ESP32.  
 - Une démonstration sous la forme d’un mini-jeu simple est présentée.  

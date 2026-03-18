@@ -4,13 +4,13 @@ GitHub est bien plus qu'un simple outil de versionnement de code. Utilisé strat
 
 ---
 
-## Pourquoi utiliser GitHub pour prendre des notes ?
+## Pourquoi utiliser GitHub pour prendre des notes?
 
-* **Traçabilité** : Chaque modification est enregistrée. On peut revenir dans le temps.
-* **Organisation** : On peut structurer ses dossiers comme un wiki technique personnel.
-* **Accessibilité** : Vos notes sont accessibles de partout.
-* **Collaboration** : On peut partager facilement et recevoir des commentaires.
-* **Utilisation de Markdown** : Langage simple pour structurer du texte efficacement.
+* **Traçabilité** : Chaque modification est enregistrée. On peut revenir dans le temps.
+* **Organisation** : On peut structurer ses dossiers comme un wiki technique personnel.
+* **Accessibilité** : Vos notes sont accessibles de partout.
+* **Collaboration** : On peut partager facilement et recevoir des commentaires.
+* **Utilisation de Markdown** : Langage simple pour structurer du texte efficacement.
 
 ---
 
@@ -34,11 +34,11 @@ Chaque dossier correspond à un thème ou un projet. Le fichier `README.md` perm
 
 ## Conseils de prise de notes
 
-* **Soyez synthétiques** : Conservez l'essentiel, ajoutez vos commentaires personnels.
-* **Structurez votre texte** : Titres, sous-titres, listes à puces, tableaux...
-* **Utilisez des captures d'écran** : Placez-les dans un dossier `assets/` et liez-les avec Markdown.
-* **Ajoutez des liens utiles** : vers des articles, documentations officielles, autres dépôts...
-* **Notez l'intention** : Pourquoi cette techno? Quel besoin? Qu'avez-vous appris?
+* **Soyez synthétiques** : Conservez l'essentiel, ajoutez vos commentaires personnels.
+* **Structurez votre texte** : Titres, sous-titres, listes à puces, tableaux...
+* **Utilisez des captures d'écran** : Placez-les dans un dossier `assets/` et liez-les avec Markdown.
+* **Ajoutez des liens utiles** : vers des articles, documentations officielles, autres dépôts...
+* **Notez l'intention** : Pourquoi cette techno? Quel besoin? Qu'avez-vous appris?
 
 ---
 
@@ -57,15 +57,15 @@ Chaque dossier correspond à un thème ou un projet. Le fichier `README.md` perm
 ![description](../assets/image.png)
 ```
 
-Pour aller plus loin :
+Pour aller plus loin :
 
-* Extension VS Code recommandée : [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+* Extension VS Code recommandée : [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 ---
 
 ## Suivi de veille technologique
 
-Voici un modèle de fiche de veille que vous pouvez utiliser pour chaque technologie explorée :
+Voici un modèle de fiche de veille que vous pouvez utiliser pour chaque technologie explorée :
 
 ```markdown
 # Nom de la technologie
@@ -86,7 +86,7 @@ Voici un modèle de fiche de veille que vous pouvez utiliser pour chaque technol
 
 ## Intérêt pour mon contexte
 - Pourrait être utile pour le projet XYZ
-- Limites identifiées : ...
+- Limites identifiées : ...
 
 ## Prochaines étapes
 - Lire documentation officielle

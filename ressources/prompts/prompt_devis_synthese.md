@@ -10,19 +10,19 @@ Voici une **synthèse structurée et unifiée** des 3 réponses (Gemini, Perplex
 
 ## 🎯 1. Vision et objectifs du projet
 
-**But : comprendre *pourquoi* le projet existe**
+**But : comprendre *pourquoi* le projet existe**
 
 * Objectif du logiciel (problème à résoudre)
 * Type de projet (MVP, prototype, production)
 * Public cible (interne, grand public, niche)
 * Plateforme (web, mobile, responsive)
 
-📌 Impact :
+📌 Impact :
 
 * Définit le niveau de complexité global
 * Influence toutes les décisions techniques
 
-**Source :**
+**Source :**
 
 * Pratique professionnelle en gestion de projet
 * Analyse produit (Perplexity, ChatGPT)
@@ -31,19 +31,19 @@ Voici une **synthèse structurée et unifiée** des 3 réponses (Gemini, Perplex
 
 ## 👥 2. Utilisateurs et rôles
 
-**But : identifier *qui* utilise le système**
+**But : identifier *qui* utilise le système**
 
 * Types d’utilisateurs (admin, utilisateur, invité)
 * Rôles et permissions (RBAC ou simple)
 * Volume d’utilisateurs attendu
 
-📌 Impact :
+📌 Impact :
 
 * Architecture backend
 * Sécurité
 * Complexité globale
 
-**Source :**
+**Source :**
 
 * UX design / analyse fonctionnelle
 * Guides de devis logiciel
@@ -52,9 +52,9 @@ Voici une **synthèse structurée et unifiée** des 3 réponses (Gemini, Perplex
 
 ## 🔐 3. Authentification et sécurité
 
-**But : protéger l’accès et les données**
+**But : protéger l’accès et les données**
 
-* Méthodes d’authentification :
+* Méthodes d’authentification :
 
   * Email / mot de passe
   * OAuth (Google, Microsoft)
@@ -63,13 +63,13 @@ Voici une **synthèse structurée et unifiée** des 3 réponses (Gemini, Perplex
 * Autorisations (droits d’accès)
 * Protection des données (chiffrement, conformité)
 
-📌 À ne pas oublier :
+📌 À ne pas oublier :
 
 * Reset password
 * Journalisation
-* Conformité légale (ex : RGPD)
+* Conformité légale (ex : RGPD)
 
-**Source :**
+**Source :**
 
 * Bonnes pratiques en cybersécurité
 * Standards industriels
@@ -78,19 +78,19 @@ Voici une **synthèse structurée et unifiée** des 3 réponses (Gemini, Perplex
 
 ## 🗄️ 4. Données et modèle
 
-**But : définir *quoi* est stocké et comment**
+**But : définir *quoi* est stocké et comment**
 
 * Entités et relations (1-n, n-n)
 * Volume de données
 * Données sensibles
 * Historique / audit
 
-📌 Complexité :
+📌 Complexité :
 
 * CRUD simple vs système relationnel complexe
 * Temps réel vs batch
 
-**Source :**
+**Source :**
 
 * Conception de bases de données
 * Ingénierie logicielle
@@ -99,9 +99,9 @@ Voici une **synthèse structurée et unifiée** des 3 réponses (Gemini, Perplex
 
 ## ⚙️ 5. Fonctionnalités (cœur du devis)
 
-**But : définir *ce que fait* le système**
+**But : définir *ce que fait* le système**
 
-Exemples :
+Exemples :
 
 * CRUD (Create, Read, Update, Delete)
 * Recherche et filtres
@@ -110,12 +110,12 @@ Exemples :
 * Dashboard
 * Workflows métier
 
-📌 Bonnes pratiques :
+📌 Bonnes pratiques :
 
 * Découper en features indépendantes
 * Associer une complexité à chaque fonctionnalité
 
-**Source :**
+**Source :**
 
 * Analyse fonctionnelle
 * Méthodes d’estimation logicielle
@@ -124,24 +124,24 @@ Exemples :
 
 ## 🧩 6. Architecture technique
 
-**But : définir *comment ça fonctionne***
+**But : définir *comment ça fonctionne***
 
 * Frontend (React, Vue, etc.)
 * Backend (Python, Node, etc.)
 * API (REST, GraphQL)
 * Base de données (PostgreSQL, etc.)
-* Architecture :
+* Architecture :
 
   * Monolithe
   * Microservices
 
-📌 Impact :
+📌 Impact :
 
 * Performance
 * Scalabilité
 * Maintenance
 
-**Source :**
+**Source :**
 
 * Ingénierie logicielle
 * Architecture système
@@ -150,7 +150,7 @@ Exemples :
 
 ## 🌐 7. Infrastructure et déploiement
 
-**But : rendre le système accessible**
+**But : rendre le système accessible**
 
 * Hébergement (VPS, cloud, PaaS)
 * CI/CD (automatisation)
@@ -160,7 +160,7 @@ Exemples :
 
 📌 Souvent sous-estimé dans les devis
 
-**Source :**
+**Source :**
 
 * DevOps / pratiques cloud
 
@@ -168,19 +168,19 @@ Exemples :
 
 ## ⚡ 8. Performance et scalabilité
 
-**But : assurer la robustesse du système**
+**But : assurer la robustesse du système**
 
 * Nombre d’utilisateurs simultanés
 * Temps de réponse
 * Mise en cache (Redis, CDN)
 * Pagination
 
-📌 Critique si :
+📌 Critique si :
 
 * Données en temps réel
 * IoT ou dashboards dynamiques
 
-**Source :**
+**Source :**
 
 * Architecture système
 * Performance engineering
@@ -189,7 +189,7 @@ Exemples :
 
 ## 🔌 9. Intégrations externes
 
-**But : connecter le système à d’autres services**
+**But : connecter le système à d’autres services**
 
 * Paiement (Stripe)
 * Emails / SMS
@@ -197,12 +197,12 @@ Exemples :
 * Webhooks
 * SSO / OAuth
 
-📌 Chaque intégration :
+📌 Chaque intégration :
 
 * Ajoute du temps
 * Introduit des risques
 
-**Source :**
+**Source :**
 
 * Pratique SaaS
 * Expérience terrain
@@ -211,15 +211,15 @@ Exemples :
 
 ## 🎨 10. UI / UX et contenu
 
-**But : définir l’expérience utilisateur**
+**But : définir l’expérience utilisateur**
 
-* Design :
+* Design :
 
   * Template existant
   * Sur mesure
 * Responsive (mobile, tablette)
 * Accessibilité
-* Contenu :
+* Contenu :
 
   * Textes
   * Images
@@ -227,7 +227,7 @@ Exemples :
 
 📌 Souvent très sous-estimé
 
-**Source :**
+**Source :**
 
 * Design produit
 * UX/UI
@@ -236,18 +236,18 @@ Exemples :
 
 ## 🧪 11. Tests et qualité
 
-**But : garantir un système fiable**
+**But : garantir un système fiable**
 
 * Tests unitaires
 * Tests d’intégration
 * QA manuel
 * Tests multi-navigateurs
 
-📌 Important :
+📌 Important :
 
 * Peut représenter une part significative du temps
 
-**Source :**
+**Source :**
 
 * Assurance qualité logicielle
 
@@ -255,22 +255,22 @@ Exemples :
 
 ## 📊 12. Organisation, estimation et budget
 
-**But : transformer le projet en coût**
+**But : transformer le projet en coût**
 
-### Méthode classique :
+### Méthode classique :
 
 1. Découper en tâches
 2. Estimer en heures / jours
 3. Ajouter un buffer (20–30%)
 
-### Éléments à inclure :
+### Éléments à inclure :
 
 * Gestion de projet (≈15–20%)
 * Réunions et coordination
 * Suivi client
 * Méthodologie (Agile, forfait)
 
-📌 Exemple :
+📌 Exemple :
 
 | Élément            | Estimation |
 | ------------------ | ---------- |
@@ -280,7 +280,7 @@ Exemples :
 | Déploiement        | 8h         |
 | **Total + buffer** | ~70h       |
 
-**Source :**
+**Source :**
 
 * Pratique en agence
 * Méthodes d’estimation logicielle
@@ -289,7 +289,7 @@ Exemples :
 
 ## 🔄 13. Maintenance et après-projet
 
-**But : prévoir la vie du logiciel après livraison**
+**But : prévoir la vie du logiciel après livraison**
 
 * Corrections de bugs
 * Mises à jour
@@ -300,7 +300,7 @@ Exemples :
 
 📌 Souvent oublié dans les devis initiaux
 
-**Source :**
+**Source :**
 
 * Cycle de vie logiciel
 
@@ -308,17 +308,17 @@ Exemples :
 
 # 🧠 Synthèse ultime (à retenir)
 
-Un devis repose sur 3 grandes questions :
+Un devis repose sur 3 grandes questions :
 
-### 1. Qui utilise ?
+### 1. Qui utilise?
 
 * Utilisateurs, rôles, sécurité
 
-### 2. Qu’est-ce que ça fait ?
+### 2. Qu’est-ce que ça fait?
 
 * Fonctionnalités, règles métier
 
-### 3. Comment ça fonctionne ?
+### 3. Comment ça fonctionne?
 
 * Architecture, données, infrastructure
 
@@ -336,7 +336,7 @@ Un devis repose sur 3 grandes questions :
 
 # 🎓 Utilisation pédagogique
 
-Ce modèle peut être utilisé comme :
+Ce modèle peut être utilisé comme :
 
 * ✅ Grille d’analyse pour étudiants
 * ✅ Checklist de projet
@@ -347,12 +347,12 @@ Ce modèle peut être utilisé comme :
 
 ## 🧾 Niveau de certitude global
 
-* Éléments structuraux (utilisateurs, données, architecture) : **très fiables**
-  → Sources : ingénierie logicielle, pratiques industrielles
-* Estimations de temps/coûts : **variables**
-  → Source : expérience terrain (fortement dépendant du contexte)
+* Éléments structuraux (utilisateurs, données, architecture) : **très fiables**
+  → Sources : ingénierie logicielle, pratiques industrielles
+* Estimations de temps/coûts : **variables**
+  → Source : expérience terrain (fortement dépendant du contexte)
 
 ---
 
-Si tu veux, prochaine étape logique :
+Si tu veux, prochaine étape logique :
 👉 Je peux transformer ça en **template de devis rempli automatiquement (style formulaire)** ou même en **outil CLI pour tes étudiants** (ça fitterait vraiment avec ton approche 👀)

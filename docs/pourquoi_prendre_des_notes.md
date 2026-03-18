@@ -1,4 +1,4 @@
-# Pourquoi prendre des notes ?
+# Pourquoi prendre des notes?
 
 Prendre des notes ne sert pas uniquement à répéter ce qu'on a lu ou entendu. C'est un acte actif d'apprentissage, de synthèse et de construction de sens. En informatique, où les technologies évoluent rapidement et les connaissances sont vastes, la prise de notes devient une compétence stratégique.
 
@@ -38,7 +38,7 @@ Prendre des notes ne sert pas uniquement à répéter ce qu'on a lu ou entendu. 
 
 ## Pour un technicien en informatique
 
-Dans le cadre du cours de veille technologique, prendre des notes sert à :
+Dans le cadre du cours de veille technologique, prendre des notes sert à :
 
 * Documenter vos recherches sur une technologie
 * Justifier vos choix dans un projet

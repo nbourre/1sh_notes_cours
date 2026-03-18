@@ -26,7 +26,7 @@ Le logiciel Obsidian est une alternative à OneNote. Il est open-source et a une
 
 Il permet d'écrire les notes en Markdown, ce qui facilite la création de documents structurés et lisibles. Il offre également des fonctionnalités de recherche avancées, de visualisation des liens entre les notes et de personnalisation de l'interface.
 
-Vous pouvez télécharger Obsidian à l'adresse suivante : [Obsidian](https://github.com/obsidianmd/obsidian-releases)
+Vous pouvez télécharger Obsidian à l'adresse suivante : [Obsidian](https://github.com/obsidianmd/obsidian-releases)
 
 # Avantages de OneNote
 
@@ -79,31 +79,31 @@ Dans l'exemple présenté dans ce document, nous allons organiser les notes par 
 # Exemple d'organisation d'un bloc-notes
 Voici un exemple pour un cours intitulé "Veille technologique".
 
-1. Bloc-notes : Veille technologique
-   - Section 1 : Recherche efficace de sources d'information
-       - Page 1.1 : Méthodes de recherche
-       - Page 1.2 : Sources d'information fiables
-       - Page 1.3 : Mots-clés et requêtes de recherche
+1. Bloc-notes : Veille technologique
+   - Section 1 : Recherche efficace de sources d'information
+       - Page 1.1 : Méthodes de recherche
+       - Page 1.2 : Sources d'information fiables
+       - Page 1.3 : Mots-clés et requêtes de recherche
 
-   - Section 2 : Utilisation appropriée des outils de veille
-       - Page 2.1 : Outils de veille en ligne
-       - Page 2.2 : Réseaux sociaux et forums
-       - Page 2.3 : Flux RSS et newsletters
+   - Section 2 : Utilisation appropriée des outils de veille
+       - Page 2.1 : Outils de veille en ligne
+       - Page 2.2 : Réseaux sociaux et forums
+       - Page 2.3 : Flux RSS et newsletters
 
-   - Section 3 : Analyse juste de l'information recueillie
-       - Page 3.1 : Évaluation de la pertinence
-       - Page 3.2 : Tri et organisation des informations
-       - Page 3.3 : Techniques de synthèse
+   - Section 3 : Analyse juste de l'information recueillie
+       - Page 3.1 : Évaluation de la pertinence
+       - Page 3.2 : Tri et organisation des informations
+       - Page 3.3 : Techniques de synthèse
 
-   - Section 4 : Détermination judicieuse des technologies à expérimenter
-       - Page 4.1 : Identification des besoins
-       - Page 4.2 : Critères de sélection
-       - Page 4.3 : Méthodes d'évaluation et de test
+   - Section 4 : Détermination judicieuse des technologies à expérimenter
+       - Page 4.1 : Identification des besoins
+       - Page 4.2 : Critères de sélection
+       - Page 4.3 : Méthodes d'évaluation et de test
 
-   - Section 5 : Travaux de groupe et projets
-       - Page 5.1 : Planification des projets
-       - Page 5.2 : Communication et collaboration
-       - Page 5.3 : Présentations et rapports
+   - Section 5 : Travaux de groupe et projets
+       - Page 5.1 : Planification des projets
+       - Page 5.2 : Communication et collaboration
+       - Page 5.3 : Présentations et rapports
 
 # Conclusion
 

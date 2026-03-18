@@ -1,9 +1,9 @@
 # Proposition formelle – Expérimentation technologique  
-**Titre du projet** : Effets interactifs pour costumes Cosplay avec microcontrôleurs  
+**Titre du projet** : Effets interactifs pour costumes Cosplay avec microcontrôleurs  
 
-**Date de remise** : 15 avril 2024  
-**Étudiant(e)** : Gabriel Lavoie  
-**Dépôt Git** : https://github.com/nbourre/1sh_notes_cours 
+**Date de remise** : 15 avril 2024  
+**Étudiant(e)** : Gabriel Lavoie  
+**Dépôt Git** : https://github.com/nbourre/1sh_notes_cours 
 
 ---  
 
@@ -17,15 +17,15 @@ Ce projet vise à explorer l’intégration de technologies embarquées dans un 
 
 # Prérecherche  
 
-Avant de choisir ce sujet, j’ai réfléchi à plusieurs options :  
+Avant de choisir ce sujet, j’ai réfléchi à plusieurs options :  
 
-| Sujet exploré | Résumé | Pourquoi rejeté ? |
+| Sujet exploré | Résumé | Pourquoi rejeté? |
 |--------------|--------|------------------|
 | **Petit jeu avec PowerShell** | Créer un mini-jeu textuel interactif dans la console. | Trop limité graphiquement, manque d’expérimentation matérielle. |
 | **Interpréteur BrainF*ck avec Godot** | Intégrer un interpréteur de langage minimaliste dans un moteur de jeu. | Peu d’application pratique, ne correspond pas à un projet expérimental. |
 | **IA pour les pools de hockey** | Utiliser des modèles statistiques pour prédire les résultats des matchs. | Sujet purement logiciel, ne touche pas aux systèmes embarqués. |
 | **Arduino et Rust** | Expérimenter la programmation bas niveau en Rust sur microcontrôleur. | Trop complexe à maîtriser en si peu de temps. |
-| **Effets interactifs en Cosplay** | Intégration de capteurs et d’éclairage programmable dans un costume. | Sujet retenu : il combine mes intérêts personnels et un défi technique accessible. |
+| **Effets interactifs en Cosplay** | Intégration de capteurs et d’éclairage programmable dans un costume. | Sujet retenu : il combine mes intérêts personnels et un défi technique accessible. |
 
 L’intégration de microcontrôleurs dans un costume m’attire particulièrement, car cela allie la créativité du design de costume à la programmation embarquée et aux effets visuels interactifs.  
 
@@ -35,7 +35,7 @@ L’intégration de microcontrôleurs dans un costume m’attire particulièreme
 
 Ce projet a pour but de concevoir un système embarqué interactif pour un costume Cosplay.  
 
-Les objectifs sont les suivants :  
+Les objectifs sont les suivants :  
 - Concevoir un module portable et léger qui peut être intégré dans un costume.  
 - Programmer un microcontrôleur pour contrôler un ensemble de LED RGB adressables.  
 - Utiliser des capteurs (mouvement, pression, toucher) pour déclencher des effets lumineux en fonction des actions du porteur.  
@@ -49,26 +49,26 @@ L’idée est de créer un système réutilisable qui pourrait être adapté à 
 
 Étant donné que le cours est intensif et se déroule sur 10 jours, la réalisation sera organisée en phases rapides.  
 
-**Jour 1 : Exploration et choix du matériel**  
+**Jour 1 : Exploration et choix du matériel**  
 - Étude des microcontrôleurs adaptés aux costumes (Arduino Nano, ESP32, Raspberry Pi Pico).  
 - Choix des capteurs et des LED en fonction des contraintes de taille, de poids et d’autonomie.  
 - Premiers tests de connexion et programmation de base.  
 
-**Jour 2 à 4 : Prototype du circuit et premiers tests**  
+**Jour 2 à 4 : Prototype du circuit et premiers tests**  
 - Assemblage du circuit sur une plaque d’essai (breadboard).  
 - Écriture du code initial pour allumer et animer les LED RGB.  
 - Tests des capteurs et validation des premières interactions.  
 
-**Jour 5 à 8 : Intégration au costume et optimisations**  
+**Jour 5 à 8 : Intégration au costume et optimisations**  
 - Installation des composants sur un costume réel.  
 - Ajustements pour améliorer la réactivité des capteurs.  
 - Optimisation de la gestion de l’énergie pour maximiser l’autonomie de la batterie.  
 
-**Jour 9 : Tests finaux et documentation**  
+**Jour 9 : Tests finaux et documentation**  
 - Rédaction du rapport de projet et documentation du code.  
 - Réflexion sur les améliorations possibles et extensions futures.  
 
-**Jour 10 : Présentation et démonstration**
+**Jour 10 : Présentation et démonstration**
 - Présentation du costume et des fonctionnalités devant le groupe.
 
 
@@ -76,11 +76,11 @@ L’idée est de créer un système réutilisable qui pourrait être adapté à 
 
 # Technologies et matériel utilisé  
 
-- **Microcontrôleur** : ESP32 (Wi-Fi/Bluetooth intégré pour futures améliorations)  
-- **Capteurs** : Accéléromètre (MPU6050) pour détecter les mouvements, capteur tactile pour interactions manuelles  
-- **Éclairage** : LED RGB WS2812B (NeoPixels)  
-- **Batterie** : Li-Po 3.7V avec régulateur de tension  
-- **Environnement de développement** : Arduino IDE, PlatformIO, Python pour l’analyse des données  
+- **Microcontrôleur** : ESP32 (Wi-Fi/Bluetooth intégré pour futures améliorations)  
+- **Capteurs** : Accéléromètre (MPU6050) pour détecter les mouvements, capteur tactile pour interactions manuelles  
+- **Éclairage** : LED RGB WS2812B (NeoPixels)  
+- **Batterie** : Li-Po 3.7V avec régulateur de tension  
+- **Environnement de développement** : Arduino IDE, PlatformIO, Python pour l’analyse des données  
 
 ---  
 
@@ -88,7 +88,7 @@ L’idée est de créer un système réutilisable qui pourrait être adapté à 
 
 Si tout se déroule comme prévu, le costume sera équipé d’un système interactif réactif aux mouvements et aux gestes.  
 
-Ce projet sera réussi si :  
+Ce projet sera réussi si :  
 - Le circuit fonctionne de manière autonome sans câbles encombrants.  
 - Les effets lumineux s’adaptent bien aux actions du porteur.  
 - Le code est optimisé et bien documenté.  

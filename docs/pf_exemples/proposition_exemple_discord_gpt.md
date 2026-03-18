@@ -1,9 +1,9 @@
 # Proposition formelle – Expérimentation technologique  
-**Titre du projet** : Développement d’un bot Discord propulsé par CLAUDE pour l’automatisation des discussions  
+**Titre du projet** : Développement d’un bot Discord propulsé par CLAUDE pour l’automatisation des discussions  
 
-**Date de remise** : 15 avril 2024  
-**Étudiant(e)** : Claude Dupuis  
-**Dépôt Git** : https://github.com/nbourre/1sh_notes_cours
+**Date de remise** : 15 avril 2024  
+**Étudiant(e)** : Claude Dupuis  
+**Dépôt Git** : https://github.com/nbourre/1sh_notes_cours
 
 ---
 
@@ -17,7 +17,7 @@ Ce projet vise donc à explorer le développement d’un bot Discord intégrant 
 ---
 
 # Prérecherche
-Avant de choisir ce sujet, j'ai eu à explorer 5 idées qui sont les suivantes :  
+Avant de choisir ce sujet, j'ai eu à explorer 5 idées qui sont les suivantes :  
 
 | **Sujet exploré** | **Résumé** | **Pourquoi rejeté** |
 |--------------|--------|----------------|
@@ -33,9 +33,9 @@ Le développement d’un bot Discord alimenté par une intelligence artificielle
 ---
 
 ## Objectifs du projet  
-**Objectif principal** : Développer un bot Discord capable de comprendre et répondre aux utilisateurs de manière contextuelle en utilisant CLAUDE.  
+**Objectif principal** : Développer un bot Discord capable de comprendre et répondre aux utilisateurs de manière contextuelle en utilisant CLAUDE.  
 
-**Objectifs spécifiques :**  
+**Objectifs spécifiques :**  
 - Comprendre le fonctionnement des bots Discord et l’utilisation des webhooks.  
 - Intégrer une API de traitement du langage naturel (CLAUDE).  
 - Déployer et tester le bot sur un serveur Discord.  
@@ -44,7 +44,7 @@ Le développement d’un bot Discord alimenté par une intelligence artificielle
 ---
 
 ## Méthodologie et plan de réalisation  
-Le projet sera réalisé en plusieurs phases :  
+Le projet sera réalisé en plusieurs phases :  
 
 ### Phase 1 – Recherche et installation des outils *(Jour 1-2)*
 - Étudier la documentation de Discord.py et OpenAI API.  
@@ -68,9 +68,9 @@ Le projet sera réalisé en plusieurs phases :
 ---
 
 ## Outils et technologies utilisées  
-- **Langage de programmation** : Python  
-- **Bibliothèques** : Discord.py, OpenAI API, dotenv  
-- **Plateformes** : Discord (serveur de test), GitHub (gestion de version)  
+- **Langage de programmation** : Python  
+- **Bibliothèques** : Discord.py, OpenAI API, dotenv  
+- **Plateformes** : Discord (serveur de test), GitHub (gestion de version)  
 
 ---
 

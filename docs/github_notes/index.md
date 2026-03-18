@@ -19,7 +19,7 @@ La première étape est de planifier une structure de votre dépôt. Vous pouvez
 ---
 
 ## Le contenu des notes
-Étant donné que ce sont des notes personnelles, je n'ai pas besoin de suivre une structure rigoureuse. Cependant, j'essaie de garder une certaine cohérence dans la manière dont je rédige mes notes. Voici quelques conseils :
+Étant donné que ce sont des notes personnelles, je n'ai pas besoin de suivre une structure rigoureuse. Cependant, j'essaie de garder une certaine cohérence dans la manière dont je rédige mes notes. Voici quelques conseils :
 
 - Utilisez des titres et des sous-titres pour structurer vos notes.
 - Utilisez des listes à puces pour les points importants.

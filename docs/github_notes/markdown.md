@@ -6,7 +6,7 @@ Markdown est un langage de balisage simple, idéal pour structurer rapidement du
 
 ## 1. Titres et hiérarchies
 
-Utilisez `#` pour les titres. Chaque `#` correspond à un niveau :
+Utilisez `#` pour les titres. Chaque `#` correspond à un niveau :
 
 ```markdown
 # Titre principal
@@ -113,7 +113,7 @@ L’extension **Markdown All in One** permet de générer automatiquement une ta
 
 ### 7.1 Omettre un élément de la table des matières
 
-Ajoutez `<!-- omit in toc -->` après le titre pour l’exclure :
+Ajoutez `<!-- omit in toc -->` après le titre pour l’exclure :
 
 ```markdown
 # Un titre quelconque <!-- omit in toc -->
@@ -132,11 +132,11 @@ Les commentaires ne sont pas visibles dans le rendu final.
 
 ---
 
-## 9. Astuce : copier-coller rapide
+## 9. Astuce : copier-coller rapide
 
 * Utilisez `Ctrl + Shift + V` dans VS Code pour prévisualiser en Markdown.
 * Utilisez un thème sombre pour un meilleur confort visuel.
-* Gardez une convention de nommage simple pour vos fichiers :
+* Gardez une convention de nommage simple pour vos fichiers :
 
 ```markdown
 nom-du-sujet.md

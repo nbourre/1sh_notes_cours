@@ -3,7 +3,7 @@
 ## Introduction
 Ce document se veut comme ressource pour le cours de Veille technologique (420-1SH-SW). Il contient des informations sur le contenu du cours, les attentes, les ressources, etc.
 
-## Travail 1 : Proposition formelle de projet
+## Travail 1 : Proposition formelle de projet
 Dans ce travail, vous devez effectuer une proposition formelle de projet. La description du travail est disponible sur Omnivox. Vous avez des exemples de propositions formelles dans le dossiers `pf_exemples`.
 
 - [Cosplay avec Arduino](pf_exemples/proposition_exemple_cosplay.md)
