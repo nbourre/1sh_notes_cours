@@ -216,7 +216,7 @@ Des **points bonis** pourront être accordés.
 
 ## Remise
 
-* Date : Lundi le 20 avril 2026
+* Date : Dimanche le 19 avril 2026 minuit
 * Format : Markdown (.md)
 * Dépôt sur :
    * Repository Git du cours
