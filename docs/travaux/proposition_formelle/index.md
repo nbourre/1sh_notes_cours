@@ -224,6 +224,15 @@ Des **points bonis** pourront être accordés.
 
 ---
 
+## Exemples de propositions formelles
+Voici quelques exemples de propositions formelles de projets réalisés par des étudiants lors de sessions précédentes. Ces exemples sont fournis à titre d’inspiration et ne doivent pas être copiés.
+
+- Cosplay interactif : [Proposition formelle de projet – Cosplay](./pf_exemples/proposition_exemple_cosplay.md)
+- Bot Discord avec CLAUDE : [Proposition formelle de projet – Bot Discord](./pf_exemples/proposition_exemple_discord_gpt.md)
+- Moteur de jeux vidéo pour ESP32 : [Proposition formelle de projet – ESP32](./pf_exemples/proposition_exemple_esp32_jv.md)
+
+---
+
 ## Conseils
 
 * Créez vous un compte GitHub Étudiant pour ce projet
