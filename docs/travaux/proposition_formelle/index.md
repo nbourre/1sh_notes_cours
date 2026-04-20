@@ -172,7 +172,7 @@ Vous devez indiquer clairement :
 
 * Si vous avez utilisé ou non l’IA pour la rédaction de votre proposition
 * Si oui :
-   * Fournir **l’entièreté des prompts utilisés** en annexe
+    * Fournir **l’entièreté des prompts utilisés** en annexe
 
 !!! danger "Attention"
 
@@ -219,8 +219,8 @@ Des **points bonis** pourront être accordés.
 * Date : Dimanche le 19 avril 2026 minuit
 * Format : Markdown (.md)
 * Dépôt sur :
-   * Repository Git du cours
-   * Plateforme Léa
+    * Repository Git du cours
+    * Plateforme Léa
 
 ---
 
