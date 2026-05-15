@@ -75,7 +75,7 @@ Jarczak répond point par point et demande à Bambu Lab d'identifier préciséme
 
 #### Acte 2 — Louis Rossmann offre 10 000 $
 
-Louis Rossmann, militant pour le droit à la réparation (*right to repair*) et fondateur de la Futo Foundation, publie une vidéo pour encourager Jarczak à rendre son code public et à contester la mise en demeure. Ne pouvant pas se prononcer sans avoir vu les documents, il contacte Jarczak en privé.
+[Louis Rossmann](https://www.youtube.com/channel/UCl2mFZoRqjw_ELax4Yisf6w), militant pour le droit à la réparation (*right to repair*) et fondateur de la Futo Foundation, publie une vidéo pour encourager Jarczak à rendre son code public et à contester la mise en demeure. Ne pouvant pas se prononcer sans avoir vu les documents, il contacte Jarczak en privé.
 
 Après avoir consulté les communications, Rossmann annonce publiquement qu'il **s'engage à couvrir les 10 000 premiers dollars de frais juridiques** si Jarczak remet son code en ligne et que Bambu Lab le poursuit effectivement. Il exprime sa confiance dans la solidité de la position de Jarczak.
 
